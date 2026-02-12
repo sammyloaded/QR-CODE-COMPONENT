@@ -22,7 +22,7 @@ Mobile
 
 🔗 Links
 
-Solution URL: https://www.frontendmentor.io/solutions/your-solution-link
+Solution URL: https://www.frontendmentor.io/solutions/responsive-qr-code-component-using-flexbox-OOpcUB9ag0
 
 Live Site URL: https://qr-code-component-seven-swart.vercel.app/
 
